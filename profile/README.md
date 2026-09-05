@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://naamjapvoicecounter.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:171228,80:2a130f,100:3d1a08&height=230&section=header&text=Naam%20Jap%20Voice%20Counter&fontSize=42&fontColor=fbbf24&desc=Sacred%20Speech%20Recognition%20%E2%80%A2%2025%20Private%20Offline%20PWA&descSize=16&descColor=fef3c7&descAlignY=70" alt="Naam Jap Voice Counter Banner" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:171228,80:2a130f,100:3d1a08&height=230&section=header&text=Naam%20Jap%20Voice%20Counter&fontSize=42&fontColor=fbbf24&desc=Sacred%20Speech%20Recognition%20%E2%80%A2%20%20Private%20Offline%20PWA&descSize=16&descColor=fef3c7&descAlignY=70" alt="Naam Jap Voice Counter Banner" width="100%" />
   </a>
 </p>
 
