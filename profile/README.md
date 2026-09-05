@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Naam Jap Voice Counter Organization
+# Naam Jap Voice Counter
 ### Sacred Speech Recognition & Modern Digital Sadhana Platform
 
 Empowering devotees worldwide to maintain continuous spiritual remembrance through private, modern, hands-free technology.  
