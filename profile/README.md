@@ -127,11 +127,11 @@ A unified directory of all verified community hubs and official platforms. Click
 
 ---
 
-## Direct Inquiries & Devotee Seva
+## Direct Inquiries & Official Support
 
 <p>
   <a href="mailto:support@naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Direct_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Support" /></a> 
-  <b>Official Seva Support</b>: <a href="mailto:support@naamjapvoicecounter.com">support@naamjapvoicecounter.com</a>
+  <b>Official Email Support</b>: <a href="mailto:support@naamjapvoicecounter.com">support@naamjapvoicecounter.com</a>
 </p>
 
 ---
