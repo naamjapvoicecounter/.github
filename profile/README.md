@@ -20,12 +20,12 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Speech_Processing-Web_Audio_API-3B82F6?style=flat-square&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-100%25_Client--Side-10B981?style=flat-square&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Privacy-Zero_Cloud_Storage-6366F1?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Application-Installable_PWA-F43F5E?style=flat-square&logo=progressivewebapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offline_Cache-Service_Worker-EAB308?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT_Open_Source-06B6D4?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Speech_Processing-Web_Audio_API-3B82F6?style=flat-square&logo=webrtc&logoColor=white" alt="Speech Processing" /></a>
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Architecture-100%25_Client--Side-10B981?style=flat-square&logo=pwa&logoColor=white" alt="Architecture" /></a>
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Privacy-Zero_Cloud_Storage-6366F1?style=flat-square&logo=shield&logoColor=white" alt="Privacy" /></a>
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Application-Installable_PWA-F43F5E?style=flat-square&logo=progressivewebapp&logoColor=white" alt="PWA Application" /></a>
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Offline_Cache-Service_Worker-EAB308?style=flat-square&logo=googlechrome&logoColor=white" alt="Offline Cache" /></a>
+  <a href="https://github.com/naamjapvoicecounter/.github/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT_Open_Source-06B6D4?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="MIT License" /></a>
 </p>
 
 </div>
@@ -35,47 +35,47 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 ## Core Capabilities & Architectural Features
 
 <p>
-  <img src="https://img.shields.io/badge/Voice_AI-Speech_Recognition-3B82F6?style=flat-square&logo=webrtc&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Voice_AI-Speech_Recognition-3B82F6?style=flat-square&logo=webrtc&logoColor=white" alt="Voice AI" /></a> 
   <b>Hands-Free Voice AI</b>: Integrated browser speech recognition listens in real time and automatically increments counting without physical touch. Ideal for walks, driving, cooking, or meditation.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Secret_Mode-Stealth_AMOLED-111827?style=flat-square&logo=shield&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Secret_Mode-Stealth_AMOLED-111827?style=flat-square&logo=shield&logoColor=white" alt="Secret Mode" /></a> 
   <b>Stealth Interface (Gupt Sadhana)</b>: Fully blacked-out AMOLED interface with subtle tactile vibration for private chanting in workplaces, metros, and public spaces.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Car_Mode-Bluetooth_Voice-F59E0B?style=flat-square&logo=bluetooth&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Car_Mode-Bluetooth_Voice-F59E0B?style=flat-square&logo=bluetooth&logoColor=white" alt="Car Mode" /></a> 
   <b>Automotive Car Mode</b>: Audible voice announcements over Bluetooth or vehicle speakers (at 11, 21, 54, 108 milestones) so driving remains 100% focused and safe.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Dhyan_Mode-Zen_Meditation-8B5CF6?style=flat-square&logo=soundcharts&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com/touch-and-auto-counter.html"><img src="https://img.shields.io/badge/Dhyan_Mode-Zen_Meditation-8B5CF6?style=flat-square&logo=soundcharts&logoColor=white" alt="Dhyan Mode" /></a> 
   <b>Zen Contemplation Mode</b>: Minimalist screen with an ambient breathing aura and hardware keyboard navigation (Spacebar / Arrow keys) for focused meditation.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Mantra_Themes-Dynamic_Aesthetics-EC4899?style=flat-square&logo=palette&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Mantra_Themes-Dynamic_Aesthetics-EC4899?style=flat-square&logo=palette&logoColor=white" alt="Mantra Themes" /></a> 
   <b>Adaptive Sacred Themes</b>: Visual atmospheres dynamically tailored to your chosen tradition and deity with soothing color schemes.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Local_Storage-IndexedDB_Engine-10B981?style=flat-square&logo=sqlite&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Local_Storage-IndexedDB_Engine-10B981?style=flat-square&logo=sqlite&logoColor=white" alt="Local Storage" /></a> 
   <b>Persistent Local Storage</b>: Counts are committed synchronously to browser IndexedDB and LocalStorage. Your spiritual records are permanent and never reset unintentionally.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Data_Portability-Encrypted_JSON-6366F1?style=flat-square&logo=json&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Data_Portability-Encrypted_JSON-6366F1?style=flat-square&logo=json&logoColor=white" alt="Data Portability" /></a> 
   <b>One-Click Backup & Restore</b>: Client-side JSON and CSV serialization for effortless, instant data migration between your personal devices.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Vedic_Library-20+_Mantras-EAB308?style=flat-square&logo=bookstack&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com/mantras.html"><img src="https://img.shields.io/badge/Vedic_Library-20+_Mantras-EAB308?style=flat-square&logo=bookstack&logoColor=white" alt="Vedic Library" /></a> 
   <b>20+ Curated Vedic Mantras & Custom Library</b>: Pre-loaded with 20+ authentic mantras. You can add as many personal mantras as you want to "My Mantras", or submit new mantras via "Suggest a Mantra" — once approved, suggested mantras go directly live on the platform for all devotees.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Offline_PWA-Zero_Bloat-EF4444?style=flat-square&logo=pwa&logoColor=white" /> 
+  <a href="https://naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Offline_PWA-Zero_Bloat-EF4444?style=flat-square&logo=pwa&logoColor=white" alt="Offline PWA" /></a> 
   <b>Zero-Bloat Offline PWA</b>: Installable progressive web application that loads instantly and functions completely offline with zero app-store bloat.
 </p>
 
@@ -83,67 +83,54 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 
 ## Technical Specifications Matrix
 
-| Module | Vector Specification | Technical Implementation | Practical Benefit |
-| :--- | :--- | :--- | :--- |
-| **Voice Recognition** | <img src="https://img.shields.io/badge/Voice_AI-3B82F6?style=flat-square&logo=webrtc&logoColor=white" /> | Web Speech Recognition API + RMS Audio Gate | Hands-free counting with real-time acoustic recognition |
-| **Tactile Metronome** | <img src="https://img.shields.io/badge/Haptic_Metronome-F59E0B?style=flat-square&logo=soundcharts&logoColor=white" /> | Web Vibration API + Precision Web Timers | Physical bead vibration feedback with adjustable tempo |
-| **Stealth Mode** | <img src="https://img.shields.io/badge/Stealth_AMOLED-111827?style=flat-square&logo=shield&logoColor=white" /> | Pure Black CSS + Discrete Haptic Pulse | Private, unobtrusive chanting in public environments |
-| **Automotive Mode** | <img src="https://img.shields.io/badge/Car_Audio-F59E0B?style=flat-square&logo=bluetooth&logoColor=white" /> | Web Audio Synthesizer + Bluetooth A2DP | Spoken milestone alerts delivered over vehicle audio |
-| **Offline Architecture** | <img src="https://img.shields.io/badge/Offline_Cache-EF4444?style=flat-square&logo=pwa&logoColor=white" /> | ServiceWorker Cache + Web Manifest v3 | Sub-second cold starts with zero network connectivity |
-| **Data Sovereignty** | <img src="https://img.shields.io/badge/Client_Only-10B981?style=flat-square&logo=sqlite&logoColor=white" /> | Isolated IndexedDB / LocalStorage Engine | Complete personal data privacy with zero cloud logging |
+| Feature Module | Technical Implementation | Operational Advantage |
+| :--- | :--- | :--- |
+| **Voice Recognition** | Web Speech Recognition API + RMS Audio Gate | Hands-free counting with real-time acoustic recognition |
+| **Tactile Metronome** | Web Vibration API + Precision Web Timers | Physical bead vibration feedback with adjustable tempo |
+| **Stealth Mode** | Pure Black CSS + Discrete Haptic Pulse | Private, unobtrusive chanting in public environments |
+| **Automotive Mode** | Web Audio Synthesizer + Bluetooth A2DP | Spoken milestone alerts delivered over vehicle audio |
+| **Offline Architecture** | ServiceWorker Cache + Web Manifest v3 | Sub-second cold starts with zero network connectivity |
+| **Data Sovereignty** | Isolated IndexedDB / LocalStorage Engine | Complete personal data privacy with zero cloud logging |
 
 ---
 
 ## Community Ecosystem & Official Directories (All 24 Verified Channels)
 
-A comprehensive directory of all 24 verified community hubs and official platforms:
+A unified directory of all 24 verified community hubs and official platforms. Click any badge or link to visit:
 
-### 1. Real-Time Broadcasts & Community Groups
-| Platform | Vector Badge | Community / Handle | Direct Link |
+| Category | Platform Badge | Community / Handle | Direct Link |
 | :--- | :--- | :--- | :--- |
-| **WhatsApp Channel** | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> | **Naam Jap Community** | [Join Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) |
-| **Telegram Channel** | <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@naamjapvoicecounter** | [t.me/naamjapvoicecounter](https://t.me/naamjapvoicecounter) |
-| **Telegram Mini Bot** | <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@NaamJapVoiceCounterBot** | [t.me/NaamJapVoiceCounterBot](https://t.me/NaamJapVoiceCounterBot) |
-| **Discord Server** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> | **Live 24/7 Jap Rooms** | [discord.gg/yZg8uEkN](https://discord.gg/yZg8uEkN) |
-
-### 2. Video, Audio & Visual Media
-| Platform | Vector Badge | Community / Handle | Direct Link |
-| :--- | :--- | :--- | :--- |
-| **YouTube** | <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> | **@NaamJapVoiceCounter** | [youtube.com/@NaamJapVoiceCounter](https://youtube.com/@NaamJapVoiceCounter) |
-| **Instagram** | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> | **@naamjapvoicecounter** | [instagram.com/naamjapvoicecounter](https://instagram.com/naamjapvoicecounter) |
-| **SoundCloud** | <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" /> | **naamjapvoicecounter** | [soundcloud.com/naamjapvoicecounter](https://soundcloud.com/naamjapvoicecounter) |
-| **Pinterest** | <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" /> | **naamjapvoicecounter** | [pinterest.com/naamjapvoicecounter](https://pinterest.com/naamjapvoicecounter) |
-| **Threads** | <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /> | **@naamjapvoicecounter** | [threads.net/@naamjapvoicecounter](https://threads.net/@naamjapvoicecounter) |
-| **Moj App** | <img src="https://img.shields.io/badge/Moj-FFCC00?style=flat-square&logo=youtube-shorts&logoColor=black" /> | **@naamjapvoicecounter** | [mojapp.in/@naamjapvoicecounter](https://mojapp.in/@naamjapvoicecounter) |
-| **ShareChat** | <img src="https://img.shields.io/badge/ShareChat-0084FF?style=flat-square&logo=messenger&logoColor=white" /> | **naamjapvoicecounter** | [sharechat.com/profile/naamjapvoicecounter](https://sharechat.com/profile/naamjapvoicecounter) |
-| **Facebook** | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | **Naam Jap Voice Counter** | [Official Facebook Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) |
-
-### 3. Discussions, Social Networks & Professional
-| Platform | Vector Badge | Community / Handle | Direct Link |
-| :--- | :--- | :--- | :--- |
-| **X (Twitter)** | <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /> | **@naamjapvoice** | [x.com/naamjapvoice](https://x.com/naamjapvoice) |
-| **Reddit** | <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /> | **u/naamjapvoicecounter** | [reddit.com/user/naamjapvoicecounter](https://reddit.com/user/naamjapvoicecounter) |
-| **Bluesky** | <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /> | **@naamjapvoice.bsky.social** | [bsky.app/profile/naamjapvoice.bsky.social](https://bsky.app/profile/naamjapvoice.bsky.social) |
-| **Tumblr** | <img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white" /> | **naamjapvoicecounter** | [naamjapvoicecounter.tumblr.com](https://naamjapvoicecounter.tumblr.com) |
-| **LinkedIn** | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> | **naamjapvoicecounter** | [linkedin.com/in/naamjapvoicecounter](https://linkedin.com/in/naamjapvoicecounter) |
-| **GitHub** | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | **naamjapvoicecounter** | [github.com/naamjapvoicecounter](https://github.com/naamjapvoicecounter) |
-
-### 4. Articles, Reviews & Product Directories
-| Platform | Vector Badge | Community / Destination | Direct Link |
-| :--- | :--- | :--- | :--- |
-| **Google Reviews** | <img src="https://img.shields.io/badge/Google_Reviews-5.0_★-4285F4?style=flat-square&logo=google&logoColor=white" /> | **5.0 ★ Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) |
-| **Trustpilot** | <img src="https://img.shields.io/badge/Trustpilot-00B67A?style=flat-square&logo=trustpilot&logoColor=white" /> | **Verified Community Reviews** | [Trustpilot Reviews](https://trustpilot.com/review/naamjapvoicecounter.com) |
-| **Product Hunt** | <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white" /> | **@naamjapvoicecounter** | [producthunt.com/@naamjapvoicecounter](https://producthunt.com/@naamjapvoicecounter) |
-| **AlternativeTo** | <img src="https://img.shields.io/badge/AlternativeTo-005696?style=flat-square&logo=alacritty&logoColor=white" /> | **naamjapvoicecounter** | [alternativeto.net/user/naamjapvoicecounter](https://alternativeto.net/user/naamjapvoicecounter/) |
-| **Medium** | <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /> | **@naamjapvoicecounter** | [medium.com/@naamjapvoicecounter](https://medium.com/@naamjapvoicecounter) |
-| **Quora** | <img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /> | **Naam-Jap-Voice-Counter** | [quora.com/profile/Naam-Jap-Voice-Counter](https://quora.com/profile/Naam-Jap-Voice-Counter) |
+| **Broadcast & Chat** | <a href="https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> | **Naam Jap Community** | [Open Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) |
+| **Broadcast & Chat** | <a href="https://t.me/naamjapvoicecounter"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> | **@naamjapvoicecounter** | [Open Channel](https://t.me/naamjapvoicecounter) |
+| **Broadcast & Chat** | <a href="https://t.me/NaamJapVoiceCounterBot"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" /></a> | **@NaamJapVoiceCounterBot** | [Launch App](https://t.me/NaamJapVoiceCounterBot) |
+| **Broadcast & Chat** | <a href="https://discord.gg/yZg8uEkN"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a> | **Live 24/7 Jap Rooms** | [Join Server](https://discord.gg/yZg8uEkN) |
+| **Video & Media** | <a href="https://youtube.com/@NaamJapVoiceCounter"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a> | **@NaamJapVoiceCounter** | [Visit Channel](https://youtube.com/@NaamJapVoiceCounter) |
+| **Video & Media** | <a href="https://instagram.com/naamjapvoicecounter"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a> | **@naamjapvoicecounter** | [Visit Instagram](https://instagram.com/naamjapvoicecounter) |
+| **Video & Media** | <a href="https://soundcloud.com/naamjapvoicecounter"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a> | **naamjapvoicecounter** | [Listen Tracks](https://soundcloud.com/naamjapvoicecounter) |
+| **Video & Media** | <a href="https://pinterest.com/naamjapvoicecounter"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" /></a> | **naamjapvoicecounter** | [Visit Pinterest](https://pinterest.com/naamjapvoicecounter) |
+| **Video & Media** | <a href="https://threads.net/@naamjapvoicecounter"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a> | **@naamjapvoicecounter** | [View Threads](https://threads.net/@naamjapvoicecounter) |
+| **Video & Media** | <a href="https://mojapp.in/@naamjapvoicecounter"><img src="https://img.shields.io/badge/Moj-FFCC00?style=flat-square&logo=youtube-shorts&logoColor=black" alt="Moj" /></a> | **@naamjapvoicecounter** | [Watch Videos](https://mojapp.in/@naamjapvoicecounter) |
+| **Video & Media** | <a href="https://sharechat.com/profile/naamjapvoicecounter"><img src="https://img.shields.io/badge/ShareChat-0084FF?style=flat-square&logo=messenger&logoColor=white" alt="ShareChat" /></a> | **naamjapvoicecounter** | [View Profile](https://sharechat.com/profile/naamjapvoicecounter) |
+| **Video & Media** | <a href="https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a> | **Naam Jap Voice Counter** | [Visit Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) |
+| **Social & Discussion** | <a href="https://x.com/naamjapvoice"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a> | **@naamjapvoice** | [Follow on X](https://x.com/naamjapvoice) |
+| **Social & Discussion** | <a href="https://reddit.com/user/naamjapvoicecounter"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a> | **u/naamjapvoicecounter** | [Join Community](https://reddit.com/user/naamjapvoicecounter) |
+| **Social & Discussion** | <a href="https://bsky.app/profile/naamjapvoice.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a> | **@naamjapvoice.bsky.social** | [Follow Bluesky](https://bsky.app/profile/naamjapvoice.bsky.social) |
+| **Social & Discussion** | <a href="https://naamjapvoicecounter.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white" alt="Tumblr" /></a> | **naamjapvoicecounter** | [Visit Tumblr](https://naamjapvoicecounter.tumblr.com) |
+| **Social & Discussion** | <a href="https://linkedin.com/in/naamjapvoicecounter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> | **naamjapvoicecounter** | [Connect LinkedIn](https://linkedin.com/in/naamjapvoicecounter) |
+| **Social & Discussion** | <a href="https://github.com/naamjapvoicecounter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> | **naamjapvoicecounter** | [View Repositories](https://github.com/naamjapvoicecounter) |
+| **Reviews & Directories** | <a href="https://g.page/r/CenGTXxjP2jEEBM/review"><img src="https://img.shields.io/badge/Google_Reviews-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Reviews" /></a> | **5.0 ★ Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) |
+| **Reviews & Directories** | <a href="https://trustpilot.com/review/naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=flat-square&logo=trustpilot&logoColor=white" alt="Trustpilot" /></a> | **Verified Community Reviews** | [Trustpilot Reviews](https://trustpilot.com/review/naamjapvoicecounter.com) |
+| **Reviews & Directories** | <a href="https://producthunt.com/@naamjapvoicecounter"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a> | **@naamjapvoicecounter** | [Product Hunt](https://producthunt.com/@naamjapvoicecounter) |
+| **Reviews & Directories** | <a href="https://alternativeto.net/user/naamjapvoicecounter/"><img src="https://img.shields.io/badge/AlternativeTo-005696?style=flat-square&logo=alacritty&logoColor=white" alt="AlternativeTo" /></a> | **naamjapvoicecounter** | [AlternativeTo](https://alternativeto.net/user/naamjapvoicecounter/) |
+| **Reviews & Directories** | <a href="https://medium.com/@naamjapvoicecounter"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a> | **@naamjapvoicecounter** | [Read Medium](https://medium.com/@naamjapvoicecounter) |
+| **Reviews & Directories** | <a href="https://quora.com/profile/Naam-Jap-Voice-Counter"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Quora" /></a> | **Naam-Jap-Voice-Counter** | [View Quora](https://quora.com/profile/Naam-Jap-Voice-Counter) |
 
 ---
 
 ## Direct Inquiries & Devotee Seva
 
 <p>
-  <img src="https://img.shields.io/badge/Direct_Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> 
+  <a href="mailto:support@naamjapvoicecounter.com"><img src="https://img.shields.io/badge/Direct_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Support" /></a> 
   <b>Official Seva Support</b>: <a href="mailto:support@naamjapvoicecounter.com">support@naamjapvoicecounter.com</a>
 </p>
 
