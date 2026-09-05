@@ -94,44 +94,58 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 
 ---
 
-## Community Ecosystem & Official Directories
+## Community Ecosystem & Official Directories (All 24 Verified Channels)
 
-All official, verified communication channels and community sanghas across the web:
+A comprehensive directory of all 24 verified community hubs and official platforms:
 
 ### 1. Real-Time Broadcasts & Community Groups
 | Platform | Vector Badge | Community / Handle | Direct Link |
 | :--- | :--- | :--- | :--- |
-| **WhatsApp** | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> | **Naam Jap Community** | [Join Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) |
-| **Telegram** | <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@naamjapvoicecounter** | [t.me/naamjapvoicecounter](https://t.me/naamjapvoicecounter) |
-| **Telegram Bot** | <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@NaamJapVoiceCounterBot** | [t.me/NaamJapVoiceCounterBot](https://t.me/NaamJapVoiceCounterBot) |
-| **Discord** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> | **Live 24/7 Jap Rooms** | [discord.gg/yZg8uEkN](https://discord.gg/yZg8uEkN) |
+| **WhatsApp Channel** | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> | **Naam Jap Community** | [Join Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) |
+| **Telegram Channel** | <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@naamjapvoicecounter** | [t.me/naamjapvoicecounter](https://t.me/naamjapvoicecounter) |
+| **Telegram Mini Bot** | <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@NaamJapVoiceCounterBot** | [t.me/NaamJapVoiceCounterBot](https://t.me/NaamJapVoiceCounterBot) |
+| **Discord Server** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> | **Live 24/7 Jap Rooms** | [discord.gg/yZg8uEkN](https://discord.gg/yZg8uEkN) |
 
-### 2. Video & Visual Media
-| Platform | Vector Badge | Handle | Direct Link |
+### 2. Video, Audio & Visual Media
+| Platform | Vector Badge | Community / Handle | Direct Link |
 | :--- | :--- | :--- | :--- |
 | **YouTube** | <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> | **@NaamJapVoiceCounter** | [youtube.com/@NaamJapVoiceCounter](https://youtube.com/@NaamJapVoiceCounter) |
 | **Instagram** | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> | **@naamjapvoicecounter** | [instagram.com/naamjapvoicecounter](https://instagram.com/naamjapvoicecounter) |
-| **Pinterest** | <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" /> | **naamjapvoicecounter** | [in.pinterest.com/naamjapvoicecounter](https://in.pinterest.com/naamjapvoicecounter/) |
+| **SoundCloud** | <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" /> | **naamjapvoicecounter** | [soundcloud.com/naamjapvoicecounter](https://soundcloud.com/naamjapvoicecounter) |
+| **Pinterest** | <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" /> | **naamjapvoicecounter** | [pinterest.com/naamjapvoicecounter](https://pinterest.com/naamjapvoicecounter) |
+| **Threads** | <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /> | **@naamjapvoicecounter** | [threads.net/@naamjapvoicecounter](https://threads.net/@naamjapvoicecounter) |
 | **Moj App** | <img src="https://img.shields.io/badge/Moj-FFCC00?style=flat-square&logo=youtube-shorts&logoColor=black" /> | **@naamjapvoicecounter** | [mojapp.in/@naamjapvoicecounter](https://mojapp.in/@naamjapvoicecounter) |
 | **ShareChat** | <img src="https://img.shields.io/badge/ShareChat-0084FF?style=flat-square&logo=messenger&logoColor=white" /> | **naamjapvoicecounter** | [sharechat.com/profile/naamjapvoicecounter](https://sharechat.com/profile/naamjapvoicecounter) |
-| **Threads** | <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /> | **@naamjapvoicecounter** | [threads.net/@naamjapvoicecounter](https://threads.net/@naamjapvoicecounter) |
+| **Facebook** | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | **Naam Jap Voice Counter** | [Official Facebook Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) |
 
-### 3. Discussion & Social Networks
-| Platform | Vector Badge | Handle | Direct Link |
+### 3. Discussions, Social Networks & Professional
+| Platform | Vector Badge | Community / Handle | Direct Link |
 | :--- | :--- | :--- | :--- |
 | **X (Twitter)** | <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /> | **@naamjapvoice** | [x.com/naamjapvoice](https://x.com/naamjapvoice) |
-| **Facebook** | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | **Naam Jap Voice Counter** | [Official Facebook Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) |
 | **Reddit** | <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /> | **u/naamjapvoicecounter** | [reddit.com/user/naamjapvoicecounter](https://reddit.com/user/naamjapvoicecounter) |
 | **Bluesky** | <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /> | **@naamjapvoice.bsky.social** | [bsky.app/profile/naamjapvoice.bsky.social](https://bsky.app/profile/naamjapvoice.bsky.social) |
 | **Tumblr** | <img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white" /> | **naamjapvoicecounter** | [naamjapvoicecounter.tumblr.com](https://naamjapvoicecounter.tumblr.com) |
+| **LinkedIn** | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> | **naamjapvoicecounter** | [linkedin.com/in/naamjapvoicecounter](https://linkedin.com/in/naamjapvoicecounter) |
+| **GitHub** | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | **naamjapvoicecounter** | [github.com/naamjapvoicecounter](https://github.com/naamjapvoicecounter) |
 
-### 4. Publications, Verified Reviews & Support
-| Platform | Vector Badge | Destination | Direct Link |
+### 4. Articles, Reviews & Product Directories
+| Platform | Vector Badge | Community / Destination | Direct Link |
 | :--- | :--- | :--- | :--- |
-| **Google Reviews** | <img src="https://img.shields.io/badge/Google_Reviews-5.0_★-4285F4?style=flat-square&logo=google&logoColor=white" /> | **Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) |
+| **Google Reviews** | <img src="https://img.shields.io/badge/Google_Reviews-5.0_★-4285F4?style=flat-square&logo=google&logoColor=white" /> | **5.0 ★ Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) |
+| **Trustpilot** | <img src="https://img.shields.io/badge/Trustpilot-00B67A?style=flat-square&logo=trustpilot&logoColor=white" /> | **Verified Community Reviews** | [Trustpilot Reviews](https://trustpilot.com/review/naamjapvoicecounter.com) |
+| **Product Hunt** | <img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white" /> | **@naamjapvoicecounter** | [producthunt.com/@naamjapvoicecounter](https://producthunt.com/@naamjapvoicecounter) |
+| **AlternativeTo** | <img src="https://img.shields.io/badge/AlternativeTo-005696?style=flat-square&logo=alacritty&logoColor=white" /> | **naamjapvoicecounter** | [alternativeto.net/user/naamjapvoicecounter](https://alternativeto.net/user/naamjapvoicecounter/) |
 | **Medium** | <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /> | **@naamjapvoicecounter** | [medium.com/@naamjapvoicecounter](https://medium.com/@naamjapvoicecounter) |
 | **Quora** | <img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /> | **Naam-Jap-Voice-Counter** | [quora.com/profile/Naam-Jap-Voice-Counter](https://quora.com/profile/Naam-Jap-Voice-Counter) |
-| **Direct Email** | <img src="https://img.shields.io/badge/Email_Support-D14836?style=flat-square&logo=gmail&logoColor=white" /> | **support@naamjapvoicecounter.com** | [Email Support](mailto:support@naamjapvoicecounter.com) |
+
+---
+
+## Direct Inquiries & Devotee Seva
+
+<p>
+  <img src="https://img.shields.io/badge/Direct_Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> 
+  <b>Official Seva Support</b>: <a href="mailto:support@naamjapvoicecounter.com">support@naamjapvoicecounter.com</a>
+</p>
 
 ---
 
