@@ -145,7 +145,6 @@ A unified directory of all verified community hubs and official platforms. Click
 ---
 
 <div align="center">
-  <p><b>राधे-राधे • जय श्री राम • हर हर महादेव • ॐ नमो भगवते वासुदेवाय</b></p>
   <p><i>Engineered in India for Devotees Worldwide</i></p>
   <br/>
   <a href="https://naamjapvoicecounter.com">
