@@ -94,9 +94,9 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 
 ---
 
-## Community Ecosystem & Official Directories (All 24 Verified Channels)
+## Community Ecosystem & Official Directories (All Verified Channels)
 
-A unified directory of all 24 verified community hubs and official platforms. Click any badge or link to visit:
+A unified directory of all verified community hubs and official platforms. Click any badge or link to visit:
 
 | Category | Platform Badge | Community / Handle | Direct Link |
 | :--- | :--- | :--- | :--- |
