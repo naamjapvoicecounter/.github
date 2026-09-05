@@ -7,7 +7,7 @@
 <div align="center">
 
 # Naam Jap Voice Counter Organization
-### Sacred Speech Recognition & Distraction-Free Digital Sadhana Platform
+### Sacred Speech Recognition & Modern Digital Sadhana Platform
 
 Empowering devotees worldwide to maintain continuous spiritual remembrance through private, modern, hands-free technology.  
 Engineered with client-side speech processing, zero cloud data storage, and zero forced restrictions.
@@ -70,8 +70,8 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Vedic_Library-50+_Mantras-EAB308?style=flat-square&logo=bookstack&logoColor=white" /> 
-  <b>Authentic Vedic Repositories</b>: Comprehensive collection of 50+ Sanskrit mantras with accurate transliteration, spiritual significance, and pronunciation guides.
+  <img src="https://img.shields.io/badge/Vedic_Library-20+_Mantras-EAB308?style=flat-square&logo=bookstack&logoColor=white" /> 
+  <b>20+ Curated Vedic Mantras & Custom Library</b>: Pre-loaded with 20+ authentic mantras. You can add as many personal mantras as you want to "My Mantras", or submit new mantras via "Suggest a Mantra" — once approved, suggested mantras go directly live on the platform for all devotees.
 </p>
 
 <p>
@@ -99,57 +99,53 @@ Engineered with client-side speech processing, zero cloud data storage, and zero
 All official, verified communication channels and community sanghas across the web:
 
 ### 1. Real-Time Broadcasts & Community Groups
-| Platform | Vector Badge | Channel / Community | Direct Link | Scope |
-| :--- | :--- | :--- | :--- | :--- |
-| **WhatsApp** | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> | **Naam Jap Community** | [Join Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) | Daily 5:30 AM morning broadcasts, sankalp alerts |
-| **Telegram** | <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@naamjapvoicecounter** | [t.me/naamjapvoicecounter](https://t.me/naamjapvoicecounter) | Stotras, PDF chanting tracker sheets, announcements |
-| **Telegram Bot** | <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@NaamJapVoiceCounterBot** | [t.me/NaamJapVoiceCounterBot](https://t.me/NaamJapVoiceCounterBot) | In-app Telegram web application launcher |
-| **Discord** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> | **Live 24/7 Jap Rooms** | [discord.gg/yZg8uEkN](https://discord.gg/yZg8uEkN) | Virtual rooms for continuous collaborative chanting |
+| Platform | Vector Badge | Community / Handle | Direct Link |
+| :--- | :--- | :--- | :--- |
+| **WhatsApp** | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> | **Naam Jap Community** | [Join Channel](https://whatsapp.com/channel/0029Vb9M30aKAwEr0tpSUy3J) |
+| **Telegram** | <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@naamjapvoicecounter** | [t.me/naamjapvoicecounter](https://t.me/naamjapvoicecounter) |
+| **Telegram Bot** | <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> | **@NaamJapVoiceCounterBot** | [t.me/NaamJapVoiceCounterBot](https://t.me/NaamJapVoiceCounterBot) |
+| **Discord** | <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> | **Live 24/7 Jap Rooms** | [discord.gg/yZg8uEkN](https://discord.gg/yZg8uEkN) |
 
 ### 2. Video & Visual Media
-| Platform | Vector Badge | Handle | Direct Link | Content Format |
-| :--- | :--- | :--- | :--- | :--- |
-| **YouTube** | <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> | **@NaamJapVoiceCounter** | [youtube.com/@NaamJapVoiceCounter](https://youtube.com/@NaamJapVoiceCounter) | 108 chant loops, video guides, feature demonstrations |
-| **Instagram** | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> | **@naamjapvoicecounter** | [instagram.com/naamjapvoicecounter](https://instagram.com/naamjapvoicecounter) | Visual reels, daily contemplative reflections |
-| **Pinterest** | <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" /> | **naamjapvoicecounter** | [in.pinterest.com/naamjapvoicecounter](https://in.pinterest.com/naamjapvoicecounter/) | Infographics, devotional layouts, sadhana charts |
-| **Moj App** | <img src="https://img.shields.io/badge/Moj-FFCC00?style=flat-square&logo=youtube-shorts&logoColor=black" /> | **@naamjapvoicecounter** | [mojapp.in/@naamjapvoicecounter](https://mojapp.in/@naamjapvoicecounter) | Short-form devotional video clips |
-| **ShareChat** | <img src="https://img.shields.io/badge/ShareChat-0084FF?style=flat-square&logo=messenger&logoColor=white" /> | **naamjapvoicecounter** | [sharechat.com/profile/naamjapvoicecounter](https://sharechat.com/profile/naamjapvoicecounter) | Multilingual spiritual messages & daily status updates |
-| **Threads** | <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /> | **@naamjapvoicecounter** | [threads.net/@naamjapvoicecounter](https://threads.net/@naamjapvoicecounter) | Micro-reflections & daily scriptural insights |
+| Platform | Vector Badge | Handle | Direct Link |
+| :--- | :--- | :--- | :--- |
+| **YouTube** | <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> | **@NaamJapVoiceCounter** | [youtube.com/@NaamJapVoiceCounter](https://youtube.com/@NaamJapVoiceCounter) |
+| **Instagram** | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> | **@naamjapvoicecounter** | [instagram.com/naamjapvoicecounter](https://instagram.com/naamjapvoicecounter) |
+| **Pinterest** | <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" /> | **naamjapvoicecounter** | [in.pinterest.com/naamjapvoicecounter](https://in.pinterest.com/naamjapvoicecounter/) |
+| **Moj App** | <img src="https://img.shields.io/badge/Moj-FFCC00?style=flat-square&logo=youtube-shorts&logoColor=black" /> | **@naamjapvoicecounter** | [mojapp.in/@naamjapvoicecounter](https://mojapp.in/@naamjapvoicecounter) |
+| **ShareChat** | <img src="https://img.shields.io/badge/ShareChat-0084FF?style=flat-square&logo=messenger&logoColor=white" /> | **naamjapvoicecounter** | [sharechat.com/profile/naamjapvoicecounter](https://sharechat.com/profile/naamjapvoicecounter) |
+| **Threads** | <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /> | **@naamjapvoicecounter** | [threads.net/@naamjapvoicecounter](https://threads.net/@naamjapvoicecounter) |
 
 ### 3. Discussion & Social Networks
-| Platform | Vector Badge | Handle | Direct Link | Focus Area |
-| :--- | :--- | :--- | :--- | :--- |
-| **X (Twitter)** | <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /> | **@naamjapvoice** | [x.com/naamjapvoice](https://x.com/naamjapvoice) | Product release changelogs & announcements |
-| **Facebook** | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | **Naam Jap Voice Counter** | [Official Facebook Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) | Devotee discussion groups & community outreach |
-| **Reddit** | <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /> | **u/naamjapvoicecounter** | [reddit.com/user/naamjapvoicecounter](https://reddit.com/user/naamjapvoicecounter) | Community inquiries, feature discussions & feedback |
-| **Bluesky** | <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /> | **@naamjapvoice.bsky.social** | [bsky.app/profile/naamjapvoice.bsky.social](https://bsky.app/profile/naamjapvoice.bsky.social) | Open network updates & decentralized syndication |
-| **Tumblr** | <img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white" /> | **naamjapvoicecounter** | [naamjapvoicecounter.tumblr.com](https://naamjapvoicecounter.tumblr.com) | Contemplative writings & devotional literature |
+| Platform | Vector Badge | Handle | Direct Link |
+| :--- | :--- | :--- | :--- |
+| **X (Twitter)** | <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /> | **@naamjapvoice** | [x.com/naamjapvoice](https://x.com/naamjapvoice) |
+| **Facebook** | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | **Naam Jap Voice Counter** | [Official Facebook Page](https://www.facebook.com/share/1DSjPWfo7s/?mibextid=wwXIfr) |
+| **Reddit** | <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /> | **u/naamjapvoicecounter** | [reddit.com/user/naamjapvoicecounter](https://reddit.com/user/naamjapvoicecounter) |
+| **Bluesky** | <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /> | **@naamjapvoice.bsky.social** | [bsky.app/profile/naamjapvoice.bsky.social](https://bsky.app/profile/naamjapvoice.bsky.social) |
+| **Tumblr** | <img src="https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white" /> | **naamjapvoicecounter** | [naamjapvoicecounter.tumblr.com](https://naamjapvoicecounter.tumblr.com) |
 
 ### 4. Publications, Verified Reviews & Support
-| Platform | Vector Badge | Destination | Direct Link | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **Google Reviews** | <img src="https://img.shields.io/badge/Google_Reviews-5.0_★-4285F4?style=flat-square&logo=google&logoColor=white" /> | **Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) | Community feedback & user testimonials |
-| **Medium** | <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /> | **@naamjapvoicecounter** | [medium.com/@naamjapvoicecounter](https://medium.com/@naamjapvoicecounter) | Technical essays on the mathematics of 108 repetitions |
-| **Quora** | <img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /> | **Naam-Jap-Voice-Counter** | [quora.com/profile/Naam-Jap-Voice-Counter](https://quora.com/profile/Naam-Jap-Voice-Counter) | Answers regarding japa practice and mantra methodology |
-| **Direct Email** | <img src="https://img.shields.io/badge/Email_Support-D14836?style=flat-square&logo=gmail&logoColor=white" /> | **support@naamjapvoicecounter.com** | [Email Support](mailto:support@naamjapvoicecounter.com) | Direct inquiries, technical support & partnerships |
+| Platform | Vector Badge | Destination | Direct Link |
+| :--- | :--- | :--- | :--- |
+| **Google Reviews** | <img src="https://img.shields.io/badge/Google_Reviews-5.0_★-4285F4?style=flat-square&logo=google&logoColor=white" /> | **Verified Reviews** | [Read Reviews](https://g.page/r/CenGTXxjP2jEEBM/review) |
+| **Medium** | <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /> | **@naamjapvoicecounter** | [medium.com/@naamjapvoicecounter](https://medium.com/@naamjapvoicecounter) |
+| **Quora** | <img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /> | **Naam-Jap-Voice-Counter** | [quora.com/profile/Naam-Jap-Voice-Counter](https://quora.com/profile/Naam-Jap-Voice-Counter) |
+| **Direct Email** | <img src="https://img.shields.io/badge/Email_Support-D14836?style=flat-square&logo=gmail&logoColor=white" /> | **support@naamjapvoicecounter.com** | [Email Support](mailto:support@naamjapvoicecounter.com) |
 
 ---
 
 ## Core Philosophy & Data Sovereignty
 
-> *"नाम संकीर्तनं यस्य सर्वपाप प्रणाशनम्।*  
-> *प्रणामो दुःखशमनस्तं नमामि हरिं परम्॥"*
-
 1. **Unconstrained Practice**: Sadhana is individual and unbounded. The platform places zero artificial quotas or session caps on your chanting.
-2. **Zero Distraction**: The chanting screen remains strictly unencumbered by disruptive popups or ads.
-3. **Absolute Privacy**: All voice data is processed ephemeral in memory; no chanting audio or counts are ever transmitted to external cloud servers.
+2. **Absolute Privacy**: All voice data is processed ephemeral in memory; no chanting audio or counts are ever transmitted to external cloud servers.
+3. **Dedicated Chanting Experience**: Built with smooth haptic feedback and voice recognition designed to keep your chanting fluid and uninterrupted.
 
 ---
 
 <div align="center">
-  <h3>हर श्वास में प्रभु नाम — हर पल में शांति</h3>
   <p><b>राधे-राधे • जय श्री राम • हर हर महादेव • ॐ नमो भगवते वासुदेवाय</b></p>
-  <p><i>Made with Devotion in India • Engineered for Devotees Worldwide</i></p>
+  <p><i>Engineered in India for Devotees Worldwide</i></p>
   <br/>
   <a href="https://naamjapvoicecounter.com">
     <img src="https://img.shields.io/badge/Visit-naamjapvoicecounter.com-E65100?style=for-the-badge&logo=googlechrome&logoColor=white" />
